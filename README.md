@@ -98,7 +98,7 @@ Interactive dashboards with modern design principles:
 1. Download Power BI Desktop (free)
 2. Clone this repository:
 ```bash
-git clone https://github.com/[YourUsername]/Power-BI-Projects.git
+git clone https://github.com/Devb1234/Power-BI-Projects.git
 cd Power-BI-Projects
 ```
 3. Open `.pbix` files in Power BI Desktop
