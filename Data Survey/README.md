@@ -5,7 +5,9 @@ This project involves data analysis and visualization of survey responses collec
 📁 Project Structure
 
 ├── Data Survey.xlsx        # Raw/Cleaned survey data in Excel format
+
 ├── Data Survey.pbix        # Power BI report containing analysis and visuals
+
 └── README.md               # Project documentation
 
 📝 Objective
