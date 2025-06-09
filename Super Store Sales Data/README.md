@@ -1,4 +1,4 @@
-# 🛒 Superstore Sales Dashboard & Forecasting (Power BI)
+# 🛒 Super Store Sales Dashboard & Forecasting (Power BI)
 
 This project presents an interactive **Power BI dashboard and sales forecasting** solution based on the Superstore dataset. It provides key insights into regional sales trends, product performance, and future sales predictions.
 
